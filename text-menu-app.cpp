@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Patients.hpp"
+#include "patients.hpp"
 
 
 class TextMenuApp {

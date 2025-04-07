@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "patients.hpp"    
+#include "patients.hpp"  
 
     class Patients {
     private:
@@ -70,8 +70,6 @@
             }
         }
     };
-
-#include "patients.hpp"
 
 // Implement the Patients constructor
 Patients::Patients(Patient* initPatients, int count) {
